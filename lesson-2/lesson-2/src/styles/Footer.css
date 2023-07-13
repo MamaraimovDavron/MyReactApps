@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.footer-box {
+  text-align: center;
+  height: 4vh;
+  font-family: "Century Gothic";
+}/*# sourceMappingURL=Footer.css.map */
